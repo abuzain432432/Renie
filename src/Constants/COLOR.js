@@ -1,0 +1,5 @@
+const PRIMARY_COLOR = '#4361EE';
+const ACCENT_COLOR = '#E76F00';
+export {
+    PRIMARY_COLOR, ACCENT_COLOR
+}
